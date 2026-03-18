@@ -1,0 +1,3 @@
+{
+  "ignore": ["akiohub", "node_modules", "database", "logs"]
+}
